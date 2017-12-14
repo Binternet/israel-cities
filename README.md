@@ -1,4 +1,4 @@
-# israel-cities
+# Israel Cities
 JSON List of cities in Israel as of December 2017.
 
 Source: https://data.gov.il/dataset/citiesandsettelments
